@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Michael (@Michaell14), 
+👋 Hi, I’m Michael (@Michaell14), 
+  
   a junior in High School in Maryland. I am interested in all kinds of technology and I love programming! I'm also interested in kickboxing, tennis, watching anime, and gaming. I’m working on website and development. You can reach me through my email: limichael909@gmail.com
 
 <!---
