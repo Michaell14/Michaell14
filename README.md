@@ -1,6 +1,6 @@
 👋 Hi, I’m Michael (@Michaell14), 
   
-  a student attending the University of Pennsylvania and pursuing a degree in Computer Science. You can reach me through my email: limichael909@gmail.com
+  a student attending the University of Pennsylvania and pursuing a degree in Computer Science.
 
 <!---
 Michaell14/Michaell14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
