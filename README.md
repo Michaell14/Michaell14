@@ -1,4 +1,4 @@
-    Hey, thanks for taking a look at my README! 
+### HELLO! 
 
     ┌────────────────────────────────────────────────────────────────────┐
     │  michael.LI                                                        │
