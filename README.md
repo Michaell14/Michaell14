@@ -13,10 +13,10 @@
     |   -----------------------------------------------------            |
     |                                                                    |
     │  /tech.TXT:                                                        │
-    │    > Languages...: Python, TypeScript, Java, HTML/CSS               │
+    │    > Languages...: Python, TypeScript, Java, HTML/CSS              │
     │    > Frontend...: React, Tailwind, Figma                           │
     │    > Backend...: Express, Supabase, MongoDB                        │
-    │    > Tools......: Docker, Git, K8s, AWS (S3, EC2)                   │
+    │    > Tools......: Docker, Git, K8s, AWS (S3, EC2)                  │
     |                                                                    |
     |   -----------------------------------------------------            |
     |                                                                    |
