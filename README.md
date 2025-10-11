@@ -28,5 +28,5 @@
     │                                                                    │
     └────────────────────────────────────────────────────────────────────┘
 
-    ───── "You are what you eat, so eat healthy" - Me ─────
+    "You are what you eat, so eat healthy" - Me
     
