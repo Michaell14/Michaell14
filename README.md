@@ -1,7 +1,7 @@
 ### HELLO! 
 
     ┌────────────────────────────────────────────────────────────────────┐
-    │  michael.LI                                                        │
+    │  michael.li                                                        │
     ├────────────────────────────────────────────────────────────────────┤
     |                                                                    |
     │  /about.me:                                                        │
@@ -12,7 +12,7 @@
     |                                                                    |
     |   -----------------------------------------------------            |
     |                                                                    |
-    │  /tech.text:                                                       │
+    │  /tech.txt:                                                        │
     │    > Languages: Python, TypeScript, Java, HTML/CSS                 │
     │    > Frontend: React, Tailwind, Figma                              │
     │    > Backend: Express, Supabase, MongoDB                           │
