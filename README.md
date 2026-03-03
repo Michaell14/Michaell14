@@ -4,7 +4,7 @@
     │  michael.LI                                                        │
     ├────────────────────────────────────────────────────────────────────┤
     |                                                                    |
-    │  /about.ME:                                                        │
+    │  /about.me:                                                        │
     │    > Who: CS major at UPenn '27, minoring in Design                │
     │    > Work: prev. @ Kensho, Wealth.com, Verizon                     │
     │    > Hobbies: Rock Climbing, Hiking, Mario Kart                    │
@@ -12,7 +12,7 @@
     |                                                                    |
     |   -----------------------------------------------------            |
     |                                                                    |
-    │  /tech.TXT:                                                        │
+    │  /tech.text:                                                       │
     │    > Languages: Python, TypeScript, Java, HTML/CSS                 │
     │    > Frontend: React, Tailwind, Figma                              │
     │    > Backend: Express, Supabase, MongoDB                           │
@@ -20,7 +20,7 @@
     |                                                                    |
     |   -----------------------------------------------------            |
     |                                                                    |
-    │  📂/contact.ME:                                                    │
+    │  /contact.me:                                                      │
     │    > Email: limichael319@gmail.com                                 │
     │    > LinkedIn: linkedin.com/in/itsmichaelli                        │
     │    > Portfolio: www.itsmichael.dev/                                │
@@ -28,5 +28,5 @@
     │                                                                    │
     └────────────────────────────────────────────────────────────────────┘
 
-    "You are what you eat, so eat healthy" - Me
+    "You are what you eat, so eat healthy"
     
