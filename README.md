@@ -2,7 +2,7 @@
 
 > Who: CS major at UPenn '27, minoring in Design
 > 
-> Work: prev. @ Kensho, Wealth.com, Verizon
+> Work: Curr @ Robinhood, prev. @ Kensho, Wealth.com, Verizon
 > 
 > Email: limichael319@gmail.com
 > 
