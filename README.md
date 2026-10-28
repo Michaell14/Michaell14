@@ -1,6 +1,6 @@
 ### Hello! 
 
-> Who: CS major at UPenn '27, minoring in Design
+> Who: CS major at UPenn '27, minor in Design
 > 
 > Work: prev. @ Robinhood, Kensho, Wealth.com, Verizon
 > 
